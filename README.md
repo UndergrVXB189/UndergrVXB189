@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Azure, AWS**
 
-💬 Follow me about **Automation, AI, API... or anything [here](https://github.com/UndergrVXB189?tab=followers)**
+💬 Follow me for updates on **Automation, AI, API... or anything [here](https://github.com/UndergrVXB189?tab=followers)**
 
 ⚡ Fun fact **I train AI like the way i train pokemon**
 
